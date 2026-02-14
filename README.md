@@ -1,4 +1,4 @@
-# FloatChat - AI-Powered Conversational Interface for ARGO Ocean Data
+# FloatChat - AI-Powered(any llm) Conversational Interface for ARGO Ocean Data
 
 FloatChat is an intelligent system that enables natural language querying and visualization of ARGO oceanographic data through an AI-powered conversational interface. Built with Google Gemini LLM and modern data processing tools, it democratizes access to complex oceanographic datasets.
 
